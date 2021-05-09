@@ -52,3 +52,32 @@ img{
 	height:187px; 
 	width:706px;
 }
+/*Third section*/
+.section_two{
+	display: flex;
+	width: 100%;
+	height: 699px;
+	background-color: darkgreen;
+	justify-content: center;
+}
+.outline{
+	width: 679px;
+	height: 453px;
+	margin-top: 100px;
+}
+.article{
+	margin-top: 100px;
+	width: 306px;
+	height: 281px;
+	margin-left: 40px;
+}
+h2{
+	font-size: 40px;
+	font-family: 'Brandon Grotesque'
+	color:#006400;
+}
+p{
+	font-size: 20px;
+	font-family: 'Kazimir-RegularItalic';
+	color: white;
+}
